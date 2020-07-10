@@ -1,7 +1,10 @@
 ### Hi there 👋
+### My name is Silvio Lima
+### Studying Data Science to solve problems
+### Looking for a position to start a career as Data Analyst or Data Scientist.
 
-<!--
-**silviolima07/silviolima07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**silviolima07/silviolima07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
