@@ -5,12 +5,7 @@
 ### Meu portfolio:
 ### https://silviolima07.github.io/
 ### Artigos:
-### Web Scrap com Python:
-### https://medium.com/@silcesarlima/web-scrap-7e99db63e8e0
-### Prevendo o Preço de Apartamentos:
-### https://medium.com/@silcesarlima/prevendo-o-pre%C3%A7o-de-venda-de-apartamentos-ba9c6d1dfe5f
-### Web-Apps: Github, Python, Streamlit e Heroku
-### https://medium.com/@silcesarlima/web-apps-python-streamlit-e-heroku-934d8186ac80
+### https://silviolima07.medium.com/
 
 
 <!--**silviolima07/silviolima07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
