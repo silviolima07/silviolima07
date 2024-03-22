@@ -1,8 +1,9 @@
-### Me chamo Silvio Lima
+# Bem vindo ao meu Portfolio
+## Projetos 
+- na Nuvem AWS
+- de Data Science / Machine Learning
 
-# Projetos na Nuvem e Projetos de Data Science / Machine Learning
-
-Bem-vindo ao meu portfólio de projetos na nuvem! Abaixo, você encontrará uma lista dos meus projetos mais recentes e interessantes, com uma breve descrição de cada um.
+No meu portfólio você encontrará uma lista dos meus projetos mais recentes e interessantes, com uma breve descrição de cada um.
 
 ## Projetos Cloud - AWS
 
@@ -154,7 +155,8 @@ Cada projeto possui um link para mais detalhes e código fonte. Confira!
 ## https://silviolima07.medium.com/
 
 
-Espero que você ache esses projetos interessantes! Se precisar de mais informações ou tiver alguma dúvida, fique à vontade para entrar em contato.
+Espero que você ache esses projetos interessantes! 
+Se precisar de mais informações ou tiver alguma dúvida, fique à vontade para entrar em contato.
 
 
 
