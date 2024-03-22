@@ -1,6 +1,6 @@
 ### Me chamo Silvio Lima
 
-# Portfólio de Projetos na Nuvem e Projetos de Data Science / Machine Learning
+# Projetos na Nuvem e Projetos de Data Science / Machine Learning
 
 Bem-vindo ao meu portfólio de projetos na nuvem! Abaixo, você encontrará uma lista dos meus projetos mais recentes e interessantes, com uma breve descrição de cada um.
 
