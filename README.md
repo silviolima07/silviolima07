@@ -1,9 +1,9 @@
-# Bem vindo ao meu Portfolio
+# Bem vindo
 ## Projetos 
 - na Nuvem AWS
 - de Data Science / Machine Learning
 
-No meu portfólio você encontrará uma lista dos meus projetos mais recentes e interessantes, com uma breve descrição de cada um.
+No meu repositório de projetos você encontrará uma lista dos meus projetos mais recentes e interessantes, com uma breve descrição de cada um.
 
 ## Projetos Cloud - AWS
 
@@ -149,7 +149,7 @@ Rpbus repositório público.
 Modelo construido usando R.
 
 Cada projeto possui um link para mais detalhes e código fonte. Confira!
-## Meu portfolio:
+## Meu portfolio de projetos:
 ## https://silviolima07.github.io/
 ## Artigos:
 ## https://silviolima07.medium.com/
