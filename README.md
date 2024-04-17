@@ -7,14 +7,14 @@ No meu repositório de projetos você encontrará uma lista dos meus projetos ma
 
 ## Projetos Cloud - AWS
 
+Videos: https://silviolima07.github.io/#work-cloud
+
 ### - Criar tabelas no Redshift Serverless e gerar um dashboard com Metabase
 
 Ler 5 arquivos csv a partir de um bucket.
 Copiar as tabelas dentro do Redshift Serverless.
 Gerar um dashboard com Metabase.
 **Serviços: S3, Iam, Redshift Serverless e Metabase.**
-
-Video: https://drive.google.com/file/d/1IRtIfgQOlJlYziuSoF28oyi6KoU4VK3n/view?usp=drive_link
 
 ### - Gerar Dados de Vendas e Dashboard no Power BI
 
@@ -68,6 +68,7 @@ Dois grupos de instâncias distintas, onde uma aplicação HTTP rodando em cada 
 ---
 
 ## Projetos de Data Science e Machine Learning
+Videos: https://silviolima07.github.io/#work-ds
 
 Este repositório contém uma variedade de projetos desenvolvidos utilizando técnicas de Data Science e Machine Learning. Cada projeto aborda diferentes aspectos e técnicas, desde análise exploratória de dados até implementações de modelos de machine learning avançados. Confira abaixo os projetos disponíveis:
 
