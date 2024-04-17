@@ -14,6 +14,8 @@ Copiar as tabelas dentro do Redshift Serverless.
 Gerar um dashboard com Metabase.
 **Serviços: S3, Iam, Redshift Serverless e Metabase.**
 
+Video: https://drive.google.com/file/d/1IRtIfgQOlJlYziuSoF28oyi6KoU4VK3n/view?usp=drive_link
+
 ### - Gerar Dados de Vendas e Dashboard no Power BI
 
 Usando a lib Faker criar dados sintéticos de vendas.
